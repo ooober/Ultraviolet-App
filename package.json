@@ -13,6 +13,9 @@
 		"lint": "eslint ./src/",
 		"lint:fix": "eslint ./src/ --fix"
 	},
+	"scripts": {
+  "test": "echo \"No tests defined\" && exit 0"
+},
 	"keywords": [
 		"proxy"
 	],
